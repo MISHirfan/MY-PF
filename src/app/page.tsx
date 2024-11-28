@@ -28,7 +28,7 @@ export default function Home() {
     <>    <div>
   
       <Navbar/>
-      <img />
+      
       { <Header /> }
       <div className="body min-h-[130vh]  flex   flex-col">
       <Image src={'/bussines-woman.jpg'}  width={400} height={200} alt="public"/>
