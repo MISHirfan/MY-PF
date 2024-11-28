@@ -1,3 +1,4 @@
+"use client"
 import React from 'react'
 import { FaMailBulk } from "react-icons/fa";
 import { BsFillTelephoneInboundFill } from "react-icons/bs";
